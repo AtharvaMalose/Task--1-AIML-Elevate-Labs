@@ -157,6 +157,3 @@ This makes the dataset suitable for a **binary classification problem** in machi
 
 This analysis provides a foundational understanding of the Titanic dataset by inspecting its structure, feature types, and data quality. These steps are essential before applying any machine learning algorithms.
 
-
-
-Just tell me 😊
